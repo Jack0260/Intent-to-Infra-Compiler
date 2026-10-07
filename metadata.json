@@ -1,0 +1,6 @@
+{
+  "name": "Intent-to-Infra Compiler",
+  "description": "Convert natural language intent into compliant Terraform, OPA policies, cost-scaling models, and interactive architecture diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
